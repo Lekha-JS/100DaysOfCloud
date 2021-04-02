@@ -14,16 +14,18 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Lekha's Cloud Journey
 
-[✍️ Introduce yourself]
+Hello! 
+My name is Lekha. I am a cloud enthusiast/engineer and I am here to better my cloud skills learn from this awesome community.
 
-[✍️ Tell us why you started this challenge]
+I started this challenge to broaden and deepen my cloud skills to help build my cloud profile
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I have already completed couple of Azure certifications. I would like to use that knowledge and skills also pcikup new skills along the way and build some small project(s).
+I am also hoping to explore futher in DevOps and hopefully take AZ400
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- @Lekha_JS
+- [LinkedIn](https://www.linkedin.com/in/username)
 
 ## Stepping out the door
 
